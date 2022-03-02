@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seunghyun030430/nwitter.git/static/css/main.d077b48a.css",
+    "main.js": "/seunghyun030430/nwitter.git/static/js/main.b4219565.js",
+    "index.html": "/seunghyun030430/nwitter.git/index.html",
+    "main.d077b48a.css.map": "/seunghyun030430/nwitter.git/static/css/main.d077b48a.css.map",
+    "main.b4219565.js.map": "/seunghyun030430/nwitter.git/static/js/main.b4219565.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d077b48a.css",
+    "static/js/main.b4219565.js"
+  ]
+}
